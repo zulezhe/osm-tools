@@ -15,11 +15,13 @@ def setup_logger(
         return logger
     logger.setLevel(level)
 
-    console_handler = logging.StreamHandler(sys.stdout)
-    console_handler.setLevel(level)
-    console_fmt = logging.Formatter("[%(asctime)s] %(levelname)s - %(message)s", datefmt="%H:%M:%S")
-    console_handler.setFormatter(console_fmt)
-    logger.addHandler(console_handler)
+    # console=False 模式下 sys.stdout 可能为 None
+    if sys.stdout is not None:
+        console_handler = logging.StreamHandler(sys.stdout)
+        console_handler.setLevel(level)
+        console_fmt = logging.Formatter("[%(asctime)s] %(levelname)s - %(message)s", datefmt="%H:%M:%S")
+        console_handler.setFormatter(console_fmt)
+        logger.addHandler(console_handler)
 
     if log_file is not None:
         log_file.parent.mkdir(parents=True, exist_ok=True)

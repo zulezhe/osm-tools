@@ -3,14 +3,15 @@ from pathlib import Path
 
 import requests
 
-from src.osm_tool.core.downloader.base import BaseDownloader
-from src.osm_tool.models.task_state import TaskState
+from osm_tool.core.downloader.base import BaseDownloader
+from osm_tool.models.task_state import TaskState
 
 
 class OverpassDownloader(BaseDownloader):
     """Overpass API 下载器"""
 
-    CHUNK_SIZE = 1024 * 64
+    CHUNK_SIZE = 1024 * 256
+    HEADERS = {"User-Agent": "OSM-Tool/0.1", "Accept-Encoding": "gzip, deflate"}
 
     def __init__(self, task, query: str, output_format: str = "json", **kwargs):
         super().__init__(task, **kwargs)
@@ -25,6 +26,7 @@ class OverpassDownloader(BaseDownloader):
             resp = requests.post(
                 self._task.url,
                 data={"data": self._query},
+                headers=self.HEADERS,
                 stream=True,
                 timeout=600,
             )
@@ -33,6 +35,7 @@ class OverpassDownloader(BaseDownloader):
             total = int(resp.headers.get("content-length", 0))
             self._task.total_bytes = total
             downloaded = 0
+            start_time = __import__("time").time()
 
             with open(save_path, "wb") as f:
                 for chunk in resp.iter_content(chunk_size=self.CHUNK_SIZE):
@@ -40,7 +43,9 @@ class OverpassDownloader(BaseDownloader):
                         return
                     f.write(chunk)
                     downloaded += len(chunk)
-                    self._report_progress(downloaded, total, 0)
+                    elapsed = __import__("time").time() - start_time
+                    speed = downloaded / elapsed if elapsed > 0 else 0
+                    self._report_progress(downloaded, total, speed)
 
             self._task.downloaded_bytes = downloaded
             self._set_state(TaskState.COMPLETED)

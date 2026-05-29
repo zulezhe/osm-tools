@@ -1,30 +1,45 @@
 """格式转换工作线程"""
-from PySide6.QtCore import QThread, Signal
+import threading
 
-from src.osm_tool.core.converter.manager import ConversionManager
+from osm_tool.core.converter.manager import ConversionManager
 
 
-class ConvertWorker(QThread):
+class ConvertWorker:
     """异步执行格式转换"""
 
-    progress = Signal(int)
-    finished_ok = Signal(object)
-    error = Signal(str)
-
-    def __init__(self, input_path: str, output_path: str, output_format=None, options: dict | None = None, parent=None):
-        super().__init__(parent)
+    def __init__(
+        self,
+        input_path: str,
+        output_path: str,
+        output_format=None,
+        options: dict | None = None,
+        on_progress=None,
+        on_complete=None,
+        on_error=None,
+    ):
         self._input_path = input_path
         self._output_path = output_path
         self._output_format = output_format
         self._options = options
+        self._on_progress = on_progress
+        self._on_complete = on_complete
+        self._on_error = on_error
+        self._thread: threading.Thread | None = None
 
-    def run(self) -> None:
+    def start(self) -> None:
+        self._thread = threading.Thread(target=self._run, daemon=True)
+        self._thread.start()
+
+    def _run(self) -> None:
         try:
             mgr = ConversionManager()
             result = mgr.convert(self._input_path, self._output_path, self._output_format, self._options)
             if result.success:
-                self.finished_ok.emit(result)
+                if self._on_complete:
+                    self._on_complete(result)
             else:
-                self.error.emit(result.error_message or "转换失败")
+                if self._on_error:
+                    self._on_error(result.error_message or "转换失败")
         except Exception as e:
-            self.error.emit(str(e))
+            if self._on_error:
+                self._on_error(str(e))

@@ -1,0 +1,4442 @@
+[
+  {
+    "id": "act",
+    "name": "Australian Capital Territory",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/act-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "afghanistan",
+    "name": "Afghanistan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/afghanistan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "africa",
+    "name": "Africa",
+    "parent_id": null,
+    "url": "https://download.geofabrik.de/africa-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "albania",
+    "name": "Albania",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/albania-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "alberta",
+    "name": "Alberta",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/alberta-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "algeria",
+    "name": "Algeria",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/algeria-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "alps",
+    "name": "Alps",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/alps-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "alsace",
+    "name": "Alsace",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/alsace-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "american-oceania",
+    "name": "American Oceania",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/american-oceania-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "andalucia",
+    "name": "Andalucía",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "andorra",
+    "name": "Andorra",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/andorra-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "angola",
+    "name": "Angola",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/angola-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "anhui",
+    "name": "Anhui",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/anhui-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "antarctica",
+    "name": "Antarctica",
+    "parent_id": null,
+    "url": "https://download.geofabrik.de/antarctica-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "aquitaine",
+    "name": "Aquitaine",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/aquitaine-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "aragon",
+    "name": "Aragón",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/argentina-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "armenia",
+    "name": "Armenia",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/armenia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "arnsberg-regbez",
+    "name": "Regierungsbezirk Arnsberg",
+    "parent_id": "nordrhein-westfalen",
+    "url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/arnsberg-regbez-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ashmore-cartier",
+    "name": "Ashmore and Cartier Islands",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/ashmore-cartier-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "asia",
+    "name": "Asia",
+    "parent_id": null,
+    "url": "https://download.geofabrik.de/asia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "asturias",
+    "name": "Asturias",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/asturias-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/australia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "australia-oceania",
+    "name": "Australia and Oceania",
+    "parent_id": null,
+    "url": "https://download.geofabrik.de/australia-oceania-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "austria",
+    "name": "Austria",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/austria-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "auvergne",
+    "name": "Auvergne",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/auvergne-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "azerbaijan",
+    "name": "Azerbaijan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/azerbaijan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "azores",
+    "name": "Azores",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/azores-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "baden-wuerttemberg",
+    "name": "Baden-Württemberg",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bahamas",
+    "name": "Bahamas",
+    "parent_id": "central-america",
+    "url": "https://download.geofabrik.de/central-america/bahamas-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bangladesh",
+    "name": "Bangladesh",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/bangladesh-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "basse-normandie",
+    "name": "Basse-Normandie",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/basse-normandie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bayern",
+    "name": "Bayern",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/bayern-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bedfordshire",
+    "name": "Bedfordshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/bedfordshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "beijing",
+    "name": "Beijing",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/beijing-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "belarus",
+    "name": "Belarus",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/belarus-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/belgium-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "belize",
+    "name": "Belize",
+    "parent_id": "central-america",
+    "url": "https://download.geofabrik.de/central-america/belize-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "benin",
+    "name": "Benin",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/benin-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "berkshire",
+    "name": "Berkshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/berkshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "berlin",
+    "name": "Berlin",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/berlin-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bermuda",
+    "name": "Bermuda",
+    "parent_id": "united-kingdom",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/bermuda-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bhutan",
+    "name": "Bhutan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/bhutan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bolivia",
+    "name": "Bolivia",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/bolivia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bosnia-herzegovina",
+    "name": "Bosnia-Herzegovina",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/bosnia-herzegovina-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "botswana",
+    "name": "Botswana",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/botswana-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bourgogne",
+    "name": "Bourgogne",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/bourgogne-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "brandenburg",
+    "name": "Brandenburg (mit Berlin)",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/brazil-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bremen",
+    "name": "Bremen",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/bremen-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bretagne",
+    "name": "Bretagne",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/bretagne-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bristol",
+    "name": "Bristol",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/bristol-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "britain-and-ireland",
+    "name": "Britain and Ireland",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/britain-and-ireland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "british-columbia",
+    "name": "British Columbia",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/british-columbia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "buckinghamshire",
+    "name": "Buckinghamshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/buckinghamshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "bulgaria",
+    "name": "Bulgaria",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/bulgaria-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "burkina-faso",
+    "name": "Burkina Faso",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/burkina-faso-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "burundi",
+    "name": "Burundi",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/burundi-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cambodia",
+    "name": "Cambodia",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/cambodia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cambridgeshire",
+    "name": "Cambridgeshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/cambridgeshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cameroon",
+    "name": "Cameroon",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/cameroon-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/canada-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "canary-islands",
+    "name": "Canary Islands",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/canary-islands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cantabria",
+    "name": "Cantabria",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/cantabria-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cape-verde",
+    "name": "Cape Verde",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/cape-verde-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "castilla-la-mancha",
+    "name": "Castilla-La Mancha",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/castilla-la-mancha-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "castilla-y-leon",
+    "name": "Castilla y León",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/castilla-y-leon-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cataluna",
+    "name": "Cataluña",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "central-african-republic",
+    "name": "Central African Republic",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/central-african-republic-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "central-america",
+    "name": "Central America",
+    "parent_id": null,
+    "url": "https://download.geofabrik.de/central-america-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "central-fed-district",
+    "name": "Central Federal District",
+    "parent_id": "russia",
+    "url": "https://download.geofabrik.de/russia/central-fed-district-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "central-zone",
+    "name": "Central Zone",
+    "parent_id": "india",
+    "url": "https://download.geofabrik.de/asia/india/central-zone-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "centre",
+    "name": "Centre",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/centre-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "centro",
+    "name": "Centro",
+    "parent_id": "italy",
+    "url": "https://download.geofabrik.de/europe/italy/centro-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "centro-oeste",
+    "name": "Centro-Oeste",
+    "parent_id": "brazil",
+    "url": "https://download.geofabrik.de/south-america/brazil/centro-oeste-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ceuta",
+    "name": "Ceuta",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/ceuta-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "chad",
+    "name": "Chad",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/chad-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "champagne-ardenne",
+    "name": "Champagne Ardenne",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/champagne-ardenne-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cheshire",
+    "name": "Cheshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/cheshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "chile",
+    "name": "Chile",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/chile-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "china",
+    "name": "China",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/china-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "chongqing",
+    "name": "Chongqing",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/chongqing-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "christmas-island",
+    "name": "Christmas Island",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/christmas-island-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "chubu",
+    "name": "Chūbu region",
+    "parent_id": "japan",
+    "url": "https://download.geofabrik.de/asia/japan/chubu-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "chugoku",
+    "name": "Chūgoku region",
+    "parent_id": "japan",
+    "url": "https://download.geofabrik.de/asia/japan/chugoku-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cocos-islands",
+    "name": "Cocos (Keeling) Islands",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/cocos-islands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "colombia",
+    "name": "Colombia",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/colombia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "comores",
+    "name": "Comores",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/comores-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "congo-brazzaville",
+    "name": "Congo (Republic/Brazzaville)",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/congo-brazzaville-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "congo-democratic-republic",
+    "name": "Congo (Democratic Republic/Kinshasa)",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/congo-democratic-republic-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cook-islands",
+    "name": "Cook Islands",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/cook-islands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "coral-sea-islands",
+    "name": "Coral Sea Islands",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/coral-sea-islands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cornwall",
+    "name": "Cornwall",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/cornwall-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "corse",
+    "name": "Corse",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/corse-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "costa-rica",
+    "name": "Costa Rica",
+    "parent_id": "central-america",
+    "url": "https://download.geofabrik.de/central-america/costa-rica-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "crimean-fed-district",
+    "name": "Crimean Federal District",
+    "parent_id": "russia",
+    "url": "https://download.geofabrik.de/russia/crimean-fed-district-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "croatia",
+    "name": "Croatia",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/croatia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cuba",
+    "name": "Cuba",
+    "parent_id": "central-america",
+    "url": "https://download.geofabrik.de/central-america/cuba-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cumbria",
+    "name": "Cumbria",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/cumbria-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "cyprus",
+    "name": "Cyprus",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/cyprus-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "czech-republic",
+    "name": "Czech Republic",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/czech-republic-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "dach",
+    "name": "Germany, Austria, Switzerland",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/dach-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "denmark",
+    "name": "Denmark",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/denmark-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "derbyshire",
+    "name": "Derbyshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/derbyshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "detmold-regbez",
+    "name": "Regierungsbezirk Detmold",
+    "parent_id": "nordrhein-westfalen",
+    "url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/detmold-regbez-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "devon",
+    "name": "Devon",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/devon-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "djibouti",
+    "name": "Djibouti",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/djibouti-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "dolnoslaskie",
+    "name": "Województwo dolnośląskie<br />(Lower Silesian Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "dorset",
+    "name": "Dorset",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/dorset-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "drenthe",
+    "name": "Drenthe",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/drenthe-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "duesseldorf-regbez",
+    "name": "Regierungsbezirk Düsseldorf",
+    "parent_id": "nordrhein-westfalen",
+    "url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "durham",
+    "name": "Durham",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/durham-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "east-sussex",
+    "name": "East Sussex",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/east-sussex-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "east-timor",
+    "name": "East Timor",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/east-timor-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "east-yorkshire-with-hull",
+    "name": "East Yorkshire with Hull",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/east-yorkshire-with-hull-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "eastern-zone",
+    "name": "Eastern Zone",
+    "parent_id": "india",
+    "url": "https://download.geofabrik.de/asia/india/eastern-zone-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ecuador",
+    "name": "Ecuador",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/ecuador-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/egypt-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "el-salvador",
+    "name": "El Salvador",
+    "parent_id": "central-america",
+    "url": "https://download.geofabrik.de/central-america/el-salvador-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "enfield",
+    "name": "Enfield",
+    "parent_id": "greater-london",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/london/enfield-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "england",
+    "name": "England",
+    "parent_id": "united-kingdom",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "equatorial-guinea",
+    "name": "Equatorial Guinea",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/equatorial-guinea-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "eritrea",
+    "name": "Eritrea",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/eritrea-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "essex",
+    "name": "Essex",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/essex-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "estonia",
+    "name": "Estonia",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/estonia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ethiopia",
+    "name": "Ethiopia",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/ethiopia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "europe",
+    "name": "Europe",
+    "parent_id": null,
+    "url": "https://download.geofabrik.de/europe-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "extremadura",
+    "name": "Extremadura",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "falklands",
+    "name": "Falkland Islands",
+    "parent_id": "united-kingdom",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/falklands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "far-eastern-fed-district",
+    "name": "Far Eastern Federal District",
+    "parent_id": "russia",
+    "url": "https://download.geofabrik.de/russia/far-eastern-fed-district-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "faroe-islands",
+    "name": "Faroe Islands",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/faroe-islands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "fiji",
+    "name": "Fiji",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "finland",
+    "name": "Finland",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/finland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "flevoland",
+    "name": "Flevoland",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/flevoland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/france-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "franche-comte",
+    "name": "Franche Comte",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/franche-comte-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "freiburg-regbez",
+    "name": "Regierungsbezirk Freiburg",
+    "parent_id": "baden-wuerttemberg",
+    "url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "friesland",
+    "name": "Friesland",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/friesland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "fujian",
+    "name": "Fujian",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/fujian-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "gabon",
+    "name": "Gabon",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/gabon-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "galicia",
+    "name": "Galicia",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "gansu",
+    "name": "Gansu",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/gansu-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "gcc-states",
+    "name": "GCC States",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/gcc-states-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "gelderland",
+    "name": "Gelderland",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/gelderland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "georgia",
+    "name": "Georgia",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/georgia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/germany-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/ghana-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "gloucestershire",
+    "name": "Gloucestershire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/gloucestershire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "great-britain",
+    "name": "Great Britain",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/great-britain-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "greater-london",
+    "name": "Greater London",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "greater-manchester",
+    "name": "Greater Manchester",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/greater-manchester-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "greece",
+    "name": "Greece",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/greece-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "greenland",
+    "name": "Greenland",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/greenland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "groningen",
+    "name": "Groningen",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/groningen-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "guadeloupe",
+    "name": "Guadeloupe",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/guadeloupe-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "guangdong",
+    "name": "Guangdong (with Hong Kong and Macau)",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/guangdong-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "guangxi",
+    "name": "Guangxi",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/guangxi-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "guatemala",
+    "name": "Guatemala",
+    "parent_id": "central-america",
+    "url": "https://download.geofabrik.de/central-america/guatemala-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "guernsey-jersey",
+    "name": "Guernsey and Jersey",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/guernsey-jersey-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "guinea",
+    "name": "Guinea",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/guinea-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "guinea-bissau",
+    "name": "Guinea-Bissau",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/guinea-bissau-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "guizhou",
+    "name": "Guizhou",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/guizhou-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "guyana",
+    "name": "Guyana",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/guyana-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "guyane",
+    "name": "Guyane",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/guyane-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "hainan",
+    "name": "Hainan",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/hainan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "haiti-and-domrep",
+    "name": "Haiti and Dominican Republic",
+    "parent_id": "central-america",
+    "url": "https://download.geofabrik.de/central-america/haiti-and-domrep-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "hamburg",
+    "name": "Hamburg",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/hamburg-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "hampshire",
+    "name": "Hampshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/hampshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "haute-normandie",
+    "name": "Haute-Normandie",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/haute-normandie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "heard-mcdonald",
+    "name": "Heard Island and McDonald Islands",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/heard-mcdonald-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "hebei",
+    "name": "Hebei (with Beijing and Tianjin)",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/hebei-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "heilongjiang",
+    "name": "Heilongjiang",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/heilongjiang-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "henan",
+    "name": "Henan",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/henan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "herefordshire",
+    "name": "Herefordshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/herefordshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "hertfordshire",
+    "name": "Hertfordshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/hertfordshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "hessen",
+    "name": "Hessen",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/hessen-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "hokkaido",
+    "name": "Hokkaidō",
+    "parent_id": "japan",
+    "url": "https://download.geofabrik.de/asia/japan/hokkaido-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "honduras",
+    "name": "Honduras",
+    "parent_id": "central-america",
+    "url": "https://download.geofabrik.de/central-america/honduras-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "hong-kong",
+    "name": "Hong Kong",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/hong-kong-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "hubei",
+    "name": "Hubei",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/hubei-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "hunan",
+    "name": "Hunan",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/hunan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "hungary",
+    "name": "Hungary",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "iceland",
+    "name": "Iceland",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/iceland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ile-de-clipperton",
+    "name": "Île de Clipperton",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/ile-de-clipperton-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ile-de-france",
+    "name": "Ile-de-France",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "india",
+    "name": "India",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/india-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "indonesia",
+    "name": "Indonesia (with East Timor)",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/indonesia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "inner-mongolia",
+    "name": "Inner Mongolia",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/inner-mongolia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "interior-admreg",
+    "name": "Interior Administrative Region",
+    "parent_id": "british-columbia",
+    "url": "https://download.geofabrik.de/north-america/canada/british-columbia/interior-admreg-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "iran",
+    "name": "Iran",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/iran-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "iraq",
+    "name": "Iraq",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/iraq-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ireland-and-northern-ireland",
+    "name": "Ireland and Northern Ireland",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "island-admreg",
+    "name": "Island Administrative Region",
+    "parent_id": "british-columbia",
+    "url": "https://download.geofabrik.de/north-america/canada/british-columbia/island-admreg-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "islas-baleares",
+    "name": "Islas Baleares",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "isle-of-man",
+    "name": "Isle of Man",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/isle-of-man-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "isle-of-wight",
+    "name": "Isle of Wight",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/isle-of-wight-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "isole",
+    "name": "Isole",
+    "parent_id": "italy",
+    "url": "https://download.geofabrik.de/europe/italy/isole-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "israel-and-palestine",
+    "name": "Israel and Palestine",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/israel-and-palestine-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "italy",
+    "name": "Italy",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/italy-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ivory-coast",
+    "name": "Ivory Coast",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/ivory-coast-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "jamaica",
+    "name": "Jamaica",
+    "parent_id": "central-america",
+    "url": "https://download.geofabrik.de/central-america/jamaica-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/japan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "java",
+    "name": "Java",
+    "parent_id": "indonesia",
+    "url": "https://download.geofabrik.de/asia/indonesia/java-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "jiangsu",
+    "name": "Jiangsu",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/jiangsu-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "jiangxi",
+    "name": "Jiangxi",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/jiangxi-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "jihocesky",
+    "name": "Jihočeský kraj",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/jihocesky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "jihomoravsky",
+    "name": "Jihomoravský kraj",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/jihomoravsky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "jilin",
+    "name": "Jilin",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/jilin-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/jordan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kalimantan",
+    "name": "Kalimantan",
+    "parent_id": "indonesia",
+    "url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kaliningrad",
+    "name": "Kaliningrad",
+    "parent_id": "russia",
+    "url": "https://download.geofabrik.de/russia/kaliningrad-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kansai",
+    "name": "Kansai region (a.k.a. Kinki region)",
+    "parent_id": "japan",
+    "url": "https://download.geofabrik.de/asia/japan/kansai-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kanto",
+    "name": "Kantō region",
+    "parent_id": "japan",
+    "url": "https://download.geofabrik.de/asia/japan/kanto-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "karlovarsky",
+    "name": "Karlovarský kraj",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/karlovarsky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "karlsruhe-regbez",
+    "name": "Regierungsbezirk Karlsruhe",
+    "parent_id": "baden-wuerttemberg",
+    "url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kazakhstan",
+    "name": "Kazakhstan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/kazakhstan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kent",
+    "name": "Kent",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/kent-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kenya",
+    "name": "Kenya",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/kenya-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kiribati",
+    "name": "Kiribati",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/kiribati-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kitikmeot",
+    "name": "Kitikmeot Region",
+    "parent_id": "nunavut",
+    "url": "https://download.geofabrik.de/north-america/canada/nunavut/kitikmeot-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kivalliq",
+    "name": "Kivalliq Region",
+    "parent_id": "nunavut",
+    "url": "https://download.geofabrik.de/north-america/canada/nunavut/kivalliq-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "koeln-regbez",
+    "name": "Regierungsbezirk Köln",
+    "parent_id": "nordrhein-westfalen",
+    "url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/koeln-regbez-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kootenay-admreg",
+    "name": "Kootenay Administrative Region",
+    "parent_id": "british-columbia",
+    "url": "https://download.geofabrik.de/north-america/canada/british-columbia/kootenay-admreg-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kosovo",
+    "name": "Kosovo",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/kosovo-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kralovehradecky",
+    "name": "Královéhradecký kraj",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/kralovehradecky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kujawsko-pomorskie",
+    "name": "Województwo kujawsko-pomorskie<br />(Kuyavian-Pomeranian Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/kujawsko-pomorskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kyrgyzstan",
+    "name": "Kyrgyzstan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/kyrgyzstan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "kyushu",
+    "name": "Kyūshū",
+    "parent_id": "japan",
+    "url": "https://download.geofabrik.de/asia/japan/kyushu-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "la-rioja",
+    "name": "La Rioja",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/la-rioja-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "lancashire",
+    "name": "Lancashire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/lancashire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "languedoc-roussillon",
+    "name": "Languedoc-Roussillon",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/languedoc-roussillon-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "laos",
+    "name": "Laos",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/laos-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "latvia",
+    "name": "Latvia",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/latvia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "lebanon",
+    "name": "Lebanon",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/lebanon-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "leicestershire",
+    "name": "Leicestershire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/leicestershire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "lesotho",
+    "name": "Lesotho",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/lesotho-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "liaoning",
+    "name": "Liaoning",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/liaoning-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "liberecky",
+    "name": "Liberecký kraj",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/liberecky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "liberia",
+    "name": "Liberia",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/liberia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "libya",
+    "name": "Libya",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/libya-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "liechtenstein",
+    "name": "Liechtenstein",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/liechtenstein-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "limburg",
+    "name": "Limburg",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/limburg-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "limousin",
+    "name": "Limousin",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/limousin-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "lincolnshire",
+    "name": "Lincolnshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/lincolnshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "lithuania",
+    "name": "Lithuania",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/lithuania-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "lodzkie",
+    "name": "Województwo łódzkie<br />(Łódź Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "lorraine",
+    "name": "Lorraine",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/lorraine-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "lubelskie",
+    "name": "Województwo lubelskie<br />(Lublin Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/lubelskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "lubuskie",
+    "name": "Województwo lubuskie<br />(Lubusz Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/lubuskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "luxembourg",
+    "name": "Luxembourg",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/luxembourg-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "macau",
+    "name": "Macau",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/macau-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "macedonia",
+    "name": "Macedonia",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/macedonia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "madagascar",
+    "name": "Madagascar",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/madagascar-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "madrid",
+    "name": "Madrid",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "malawi",
+    "name": "Malawi",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/malawi-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "malaysia-singapore-brunei",
+    "name": "Malaysia, Singapore, and Brunei",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "maldives",
+    "name": "Maldives",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/maldives-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "mali",
+    "name": "Mali",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/mali-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "malopolskie",
+    "name": "Województwo małopolskie<br />(Lesser Poland Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/malopolskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "malta",
+    "name": "Malta",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/malta-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "maluku",
+    "name": "Maluku",
+    "parent_id": "indonesia",
+    "url": "https://download.geofabrik.de/asia/indonesia/maluku-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "manitoba",
+    "name": "Manitoba",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/manitoba-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "marshall-islands",
+    "name": "Marshall Islands",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/marshall-islands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "martinique",
+    "name": "Martinique",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/martinique-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "mauritania",
+    "name": "Mauritania",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/mauritania-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "mauritius",
+    "name": "Mauritius",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/mauritius-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "mayotte",
+    "name": "Mayotte",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/mayotte-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "mazowieckie",
+    "name": "Województwo mazowieckie<br />(Mazovian Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/mazowieckie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "mecklenburg-vorpommern",
+    "name": "Mecklenburg-Vorpommern",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/mecklenburg-vorpommern-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "melilla",
+    "name": "Melilla",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/melilla-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "merseyside",
+    "name": "Merseyside",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/merseyside-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/mexico-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "micronesia",
+    "name": "Micronesia",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/micronesia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "midi-pyrenees",
+    "name": "Midi-Pyrenees",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/midi-pyrenees-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "mittelfranken",
+    "name": "Mittelfranken",
+    "parent_id": "bayern",
+    "url": "https://download.geofabrik.de/europe/germany/bayern/mittelfranken-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "moldova",
+    "name": "Moldova",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/moldova-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "monaco",
+    "name": "Monaco",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/monaco-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "mongolia",
+    "name": "Mongolia",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/mongolia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "montenegro",
+    "name": "Montenegro",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/montenegro-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "moravskoslezky",
+    "name": "Moravskoslezský kraj",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/moravskoslezky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/morocco-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "mozambique",
+    "name": "Mozambique",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/mozambique-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "muenster-regbez",
+    "name": "Regierungsbezirk Münster",
+    "parent_id": "nordrhein-westfalen",
+    "url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen/muenster-regbez-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "murcia",
+    "name": "Murcia",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/murcia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "myanmar",
+    "name": "Myanmar (a.k.a. Burma)",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/myanmar-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "namibia",
+    "name": "Namibia",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/namibia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nauru",
+    "name": "Nauru",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/nauru-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "navarra",
+    "name": "Navarra",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/navarra-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nepal",
+    "name": "Nepal",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/nepal-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/netherlands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "new-brunswick",
+    "name": "New Brunswick",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/new-brunswick-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "new-caledonia",
+    "name": "New Caledonia",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/new-caledonia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "new-south-wales",
+    "name": "New South Wales (with ACT and JBT)",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/new-south-wales-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "new-zealand",
+    "name": "New Zealand",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/new-zealand-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "newfoundland-and-labrador",
+    "name": "Newfoundland and Labrador",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/newfoundland-and-labrador-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nicaragua",
+    "name": "Nicaragua",
+    "parent_id": "central-america",
+    "url": "https://download.geofabrik.de/central-america/nicaragua-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "niederbayern",
+    "name": "Niederbayern",
+    "parent_id": "bayern",
+    "url": "https://download.geofabrik.de/europe/germany/bayern/niederbayern-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "niedersachsen",
+    "name": "Niedersachsen (mit Bremen)",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/niedersachsen-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "niger",
+    "name": "Niger",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/niger-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nigeria",
+    "name": "Nigeria",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/nigeria-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ningxia",
+    "name": "Ningxia",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/ningxia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "niue",
+    "name": "Niue",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/niue-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "noord-brabant",
+    "name": "Noord-Brabant",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/noord-brabant-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "noord-holland",
+    "name": "Noord-Holland",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/noord-holland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "norcal",
+    "name": "Northern California",
+    "parent_id": "us/california",
+    "url": "https://download.geofabrik.de/north-america/us/california/norcal-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nord-est",
+    "name": "Nord-Est",
+    "parent_id": "italy",
+    "url": "https://download.geofabrik.de/europe/italy/nord-est-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nord-norge",
+    "name": "Nord-Norge<br />(Northern Norway)",
+    "parent_id": "norway",
+    "url": "https://download.geofabrik.de/europe/norway/nord-norge-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nord-ovest",
+    "name": "Nord-Ovest",
+    "parent_id": "italy",
+    "url": "https://download.geofabrik.de/europe/italy/nord-ovest-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nord-pas-de-calais",
+    "name": "Nord-Pas-de-Calais",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/nord-pas-de-calais-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nordeste",
+    "name": "Nordeste",
+    "parent_id": "brazil",
+    "url": "https://download.geofabrik.de/south-america/brazil/nordeste-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nordrhein-westfalen",
+    "name": "Nordrhein-Westfalen",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/nordrhein-westfalen-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "norfolk",
+    "name": "Norfolk",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/norfolk-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "norfolk-island",
+    "name": "Norfolk Island",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/norfolk-island-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "norte",
+    "name": "Norte",
+    "parent_id": "brazil",
+    "url": "https://download.geofabrik.de/south-america/brazil/norte-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "north-admreg",
+    "name": "North Administrative Region",
+    "parent_id": "british-columbia",
+    "url": "https://download.geofabrik.de/north-america/canada/british-columbia/north-admreg-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "north-america",
+    "name": "North America",
+    "parent_id": null,
+    "url": "https://download.geofabrik.de/north-america-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "north-caucasus-fed-district",
+    "name": "North Caucasus Federal District",
+    "parent_id": "russia",
+    "url": "https://download.geofabrik.de/russia/north-caucasus-fed-district-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "north-eastern-zone",
+    "name": "North-Eastern Zone",
+    "parent_id": "india",
+    "url": "https://download.geofabrik.de/asia/india/north-eastern-zone-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "north-korea",
+    "name": "North Korea",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/north-korea-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "north-yorkshire",
+    "name": "North Yorkshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/north-yorkshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "northamptonshire",
+    "name": "Northamptonshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/northamptonshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "northern-territory",
+    "name": "Northern Territory",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/northern-territory-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "northern-zone",
+    "name": "Northern Zone",
+    "parent_id": "india",
+    "url": "https://download.geofabrik.de/asia/india/northern-zone-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "northumberland",
+    "name": "Northumberland",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/northumberland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "northwest-territories",
+    "name": "Northwest Territories",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/northwest-territories-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "northwestern-fed-district",
+    "name": "Northwestern Federal District",
+    "parent_id": "russia",
+    "url": "https://download.geofabrik.de/russia/northwestern-fed-district-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "norway",
+    "name": "Norway",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/norway-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nottinghamshire",
+    "name": "Nottinghamshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/nottinghamshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nova-scotia",
+    "name": "Nova Scotia",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/nova-scotia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nunavut",
+    "name": "Nunavut",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/nunavut-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "nusa-tenggara",
+    "name": "Nusa-Tenggara",
+    "parent_id": "indonesia",
+    "url": "https://download.geofabrik.de/asia/indonesia/nusa-tenggara-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "oberbayern",
+    "name": "Oberbayern",
+    "parent_id": "bayern",
+    "url": "https://download.geofabrik.de/europe/germany/bayern/oberbayern-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "oberfranken",
+    "name": "Oberfranken",
+    "parent_id": "bayern",
+    "url": "https://download.geofabrik.de/europe/germany/bayern/oberfranken-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "oberpfalz",
+    "name": "Oberpfalz",
+    "parent_id": "bayern",
+    "url": "https://download.geofabrik.de/europe/germany/bayern/oberpfalz-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "okanagan-admreg",
+    "name": "Okanagan Administrative Region",
+    "parent_id": "british-columbia",
+    "url": "https://download.geofabrik.de/north-america/canada/british-columbia/okanagan-admreg-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "olomoucky",
+    "name": "Olomoucký kraj",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/olomoucky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ontario",
+    "name": "Ontario",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "opolskie",
+    "name": "Województwo opolskie<br />(Opole Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/opolskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ostlandet",
+    "name": "Østlandet<br />(Eastern Norway)",
+    "parent_id": "norway",
+    "url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "overijssel",
+    "name": "Overijssel",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/overijssel-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "oxfordshire",
+    "name": "Oxfordshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/oxfordshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "pais-vasco",
+    "name": "País Vasco",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "pakistan",
+    "name": "Pakistan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/pakistan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "palau",
+    "name": "Palau",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/palau-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "panama",
+    "name": "Panama",
+    "parent_id": "central-america",
+    "url": "https://download.geofabrik.de/central-america/panama-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "papua",
+    "name": "Papua",
+    "parent_id": "indonesia",
+    "url": "https://download.geofabrik.de/asia/indonesia/papua-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "papua-new-guinea",
+    "name": "Papua New Guinea",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/papua-new-guinea-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/paraguay-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "pardubicky",
+    "name": "Pardubický kraj",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/pardubicky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "pays-de-la-loire",
+    "name": "Pays de la Loire",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/pays-de-la-loire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "peru",
+    "name": "Peru",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/peru-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "philippines",
+    "name": "Philippines",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/philippines-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "picardie",
+    "name": "Picardie",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/picardie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "pitcairn-islands",
+    "name": "Pitcairn Islands",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/pitcairn-islands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "plzensky",
+    "name": "Plzeňský kraj",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/plzensky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "podkarpackie",
+    "name": "Województwo podkarpackie<br />(Subcarpathian Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/podkarpackie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "podlaskie",
+    "name": "Województwo podlaskie<br />(Podlaskie Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/podlaskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "poitou-charentes",
+    "name": "Poitou-Charentes",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/poitou-charentes-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "poland",
+    "name": "Poland",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/poland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "polynesie-francaise",
+    "name": "Polynésie française (French Polynesia)",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/polynesie-francaise-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "pomorskie",
+    "name": "Województwo pomorskie<br />(Pomeranian Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/pomorskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/portugal-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "praha",
+    "name": "Praha",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/praha-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "prince-edward-island",
+    "name": "Prince Edward Island",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/prince-edward-island-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "provence-alpes-cote-d-azur",
+    "name": "Provence Alpes-Cote-d'Azur",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "qikiqtaaluk",
+    "name": "Qikiqtaaluk Region",
+    "parent_id": "nunavut",
+    "url": "https://download.geofabrik.de/north-america/canada/nunavut/qikiqtaaluk-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "qinghai",
+    "name": "Qinghai",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/qinghai-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "quebec",
+    "name": "Quebec",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/quebec-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "queensland",
+    "name": "Queensland",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/queensland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "reunion",
+    "name": "Reunion",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/reunion-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "rheinland-pfalz",
+    "name": "Rheinland-Pfalz",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/rheinland-pfalz-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "rhone-alpes",
+    "name": "Rhone-Alpes",
+    "parent_id": "france",
+    "url": "https://download.geofabrik.de/europe/france/rhone-alpes-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "romania",
+    "name": "Romania",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/romania-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "russia",
+    "name": "Russian Federation",
+    "parent_id": null,
+    "url": "https://download.geofabrik.de/russia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "rutland",
+    "name": "Rutland",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/rutland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "rwanda",
+    "name": "Rwanda",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/rwanda-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "saarland",
+    "name": "Saarland",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/saarland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sachsen",
+    "name": "Sachsen",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/sachsen-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sachsen-anhalt",
+    "name": "Sachsen-Anhalt",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/sachsen-anhalt-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "saint-helena-ascension-and-tristan-da-cunha",
+    "name": "Saint Helena, Ascension, and Tristan da Cunha",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/saint-helena-ascension-and-tristan-da-cunha-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "samoa",
+    "name": "Samoa",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/samoa-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sao-tome-and-principe",
+    "name": "Sao Tome and Principe",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/sao-tome-and-principe-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "saskatchewan",
+    "name": "Saskatchewan",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/saskatchewan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "schleswig-holstein",
+    "name": "Schleswig-Holstein",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/schleswig-holstein-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "schwaben",
+    "name": "Schwaben",
+    "parent_id": "bayern",
+    "url": "https://download.geofabrik.de/europe/germany/bayern/schwaben-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "scotland",
+    "name": "Scotland",
+    "parent_id": "united-kingdom",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/scotland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sea",
+    "name": "South-East Asia",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/sea-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "senegal-and-gambia",
+    "name": "Senegal and Gambia",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/senegal-and-gambia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "serbia",
+    "name": "Serbia",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/serbia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "seychelles",
+    "name": "Seychelles",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/seychelles-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "shaanxi",
+    "name": "Shaanxi",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/shaanxi-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "shandong",
+    "name": "Shandong",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/shandong-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "shanghai",
+    "name": "Shanghai",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/shanghai-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "shanxi",
+    "name": "Shanxi",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/shanxi-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "shikoku",
+    "name": "Shikoku",
+    "parent_id": "japan",
+    "url": "https://download.geofabrik.de/asia/japan/shikoku-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "shropshire",
+    "name": "Shropshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/shropshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "siberian-fed-district",
+    "name": "Siberian Federal District",
+    "parent_id": "russia",
+    "url": "https://download.geofabrik.de/russia/siberian-fed-district-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sichuan",
+    "name": "Sichuan",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/sichuan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sierra-leone",
+    "name": "Sierra Leone",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/sierra-leone-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "slaskie",
+    "name": "Województwo śląskie<br />(Silesian Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "slovakia",
+    "name": "Slovakia",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/slovakia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "slovenia",
+    "name": "Slovenia",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/slovenia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "socal",
+    "name": "Southern California",
+    "parent_id": "us/california",
+    "url": "https://download.geofabrik.de/north-america/us/california/socal-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "solomon-islands",
+    "name": "Solomon Islands",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/solomon-islands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "somalia",
+    "name": "Somalia",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/somalia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "somerset",
+    "name": "Somerset",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/somerset-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sorlandet",
+    "name": "Sørlandet<br />(Southern Norway)",
+    "parent_id": "norway",
+    "url": "https://download.geofabrik.de/europe/norway/sorlandet-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "south-africa",
+    "name": "South Africa",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/south-africa-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "south-africa-and-lesotho",
+    "name": "South Africa (includes Lesotho)",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/south-africa-and-lesotho-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "south-america",
+    "name": "South America",
+    "parent_id": null,
+    "url": "https://download.geofabrik.de/south-america-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "south-australia",
+    "name": "South Australia",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/south-australia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "south-fed-district",
+    "name": "South Federal District",
+    "parent_id": "russia",
+    "url": "https://download.geofabrik.de/russia/south-fed-district-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "south-korea",
+    "name": "South Korea",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/south-korea-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "south-sudan",
+    "name": "South Sudan",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/south-sudan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "south-yorkshire",
+    "name": "South Yorkshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/south-yorkshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "southcoast-admreg",
+    "name": "South Coast Administrative Region",
+    "parent_id": "british-columbia",
+    "url": "https://download.geofabrik.de/north-america/canada/british-columbia/southcoast-admreg-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "southern-zone",
+    "name": "Southern Zone",
+    "parent_id": "india",
+    "url": "https://download.geofabrik.de/asia/india/southern-zone-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/spain-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sri-lanka",
+    "name": "Sri Lanka",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/sri-lanka-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "staffordshire",
+    "name": "Staffordshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/staffordshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "stredocesky",
+    "name": "Středočeský kraj (with Praha)",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/stredocesky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "stuttgart-regbez",
+    "name": "Regierungsbezirk Stuttgart",
+    "parent_id": "baden-wuerttemberg",
+    "url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/stuttgart-regbez-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sud",
+    "name": "Sud",
+    "parent_id": "italy",
+    "url": "https://download.geofabrik.de/europe/italy/sud-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sudan",
+    "name": "Sudan",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/sudan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sudeste",
+    "name": "Sudeste",
+    "parent_id": "brazil",
+    "url": "https://download.geofabrik.de/south-america/brazil/sudeste-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "suffolk",
+    "name": "Suffolk",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/suffolk-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sul",
+    "name": "Sul",
+    "parent_id": "brazil",
+    "url": "https://download.geofabrik.de/south-america/brazil/sul-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sulawesi",
+    "name": "Sulawesi",
+    "parent_id": "indonesia",
+    "url": "https://download.geofabrik.de/asia/indonesia/sulawesi-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sumatra",
+    "name": "Sumatra",
+    "parent_id": "indonesia",
+    "url": "https://download.geofabrik.de/asia/indonesia/sumatra-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "suriname",
+    "name": "Suriname",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/suriname-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "surrey",
+    "name": "Surrey",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/surrey-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "svalbard-janmayen",
+    "name": "Svalbard and Jan Mayen",
+    "parent_id": "norway",
+    "url": "https://download.geofabrik.de/europe/norway/svalbard-janmayen-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "swaziland",
+    "name": "Swaziland",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/swaziland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "sweden",
+    "name": "Sweden",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "swietokrzyskie",
+    "name": "Województwo świętokrzyskie<br />(Świętokrzyskie Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/swietokrzyskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "switzerland",
+    "name": "Switzerland",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/switzerland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "syria",
+    "name": "Syria",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/syria-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "taiwan",
+    "name": "Taiwan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/taiwan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tajikistan",
+    "name": "Tajikistan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/tajikistan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tanzania",
+    "name": "Tanzania",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/tanzania-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tasmania",
+    "name": "Tasmania",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/tasmania-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "thailand",
+    "name": "Thailand",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/thailand-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "thueringen",
+    "name": "Thüringen",
+    "parent_id": "germany",
+    "url": "https://download.geofabrik.de/europe/germany/thueringen-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tianjin",
+    "name": "Tianjin",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/tianjin-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tibet",
+    "name": "Tibet",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/tibet-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "togo",
+    "name": "Togo",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/togo-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tohoku",
+    "name": "Tōhoku region",
+    "parent_id": "japan",
+    "url": "https://download.geofabrik.de/asia/japan/tohoku-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tokelau",
+    "name": "Tokelau",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/tokelau-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tonga",
+    "name": "Tonga",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/tonga-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "trondelag",
+    "name": "Trøndelag<br />(Central Norway)",
+    "parent_id": "norway",
+    "url": "https://download.geofabrik.de/europe/norway/trondelag-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tuebingen-regbez",
+    "name": "Regierungsbezirk Tübingen",
+    "parent_id": "baden-wuerttemberg",
+    "url": "https://download.geofabrik.de/europe/germany/baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tunisia",
+    "name": "Tunisia",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/tunisia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/turkey-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "turkmenistan",
+    "name": "Turkmenistan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/turkmenistan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tuvalu",
+    "name": "Tuvalu",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/tuvalu-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "tyne-and-wear",
+    "name": "Tyne and Wear",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/tyne-and-wear-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "uganda",
+    "name": "Uganda",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/uganda-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ukraine",
+    "name": "Ukraine (with Crimea)",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/ukraine-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "united-kingdom",
+    "name": "United Kingdom",
+    "parent_id": "europe",
+    "url": "https://download.geofabrik.de/europe/united-kingdom-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "unterfranken",
+    "name": "Unterfranken",
+    "parent_id": "bayern",
+    "url": "https://download.geofabrik.de/europe/germany/bayern/unterfranken-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ural-fed-district",
+    "name": "Ural Federal District",
+    "parent_id": "russia",
+    "url": "https://download.geofabrik.de/russia/ural-fed-district-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "uruguay",
+    "name": "Uruguay",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/uruguay-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us",
+    "name": "United States of America",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us-midwest",
+    "name": "US Midwest",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us-midwest-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us-northeast",
+    "name": "US Northeast",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us-northeast-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us-pacific",
+    "name": "US Pacific",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us-pacific-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us-south",
+    "name": "US South",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us-south-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us-west",
+    "name": "US West",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us-west-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/alabama",
+    "name": "us/alabama",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/alabama-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/alaska",
+    "name": "us/alaska",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/alaska-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/arizona",
+    "name": "us/arizona",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/arizona-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/arkansas",
+    "name": "us/arkansas",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/arkansas-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/california",
+    "name": "us/california",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/california-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/colorado",
+    "name": "us/colorado",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/colorado-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/connecticut",
+    "name": "us/connecticut",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/connecticut-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/delaware",
+    "name": "us/delaware",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/delaware-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/district-of-columbia",
+    "name": "us/district-of-columbia",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/district-of-columbia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/florida",
+    "name": "us/florida",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/georgia",
+    "name": "Georgia",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/georgia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/hawaii",
+    "name": "us/hawaii",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/hawaii-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/idaho",
+    "name": "us/idaho",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/idaho-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/illinois",
+    "name": "us/illinois",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/illinois-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/indiana",
+    "name": "us/indiana",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/indiana-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/iowa",
+    "name": "us/iowa",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/iowa-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/kansas",
+    "name": "us/kansas",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/kansas-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/kentucky",
+    "name": "us/kentucky",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/kentucky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/louisiana",
+    "name": "us/louisiana",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/louisiana-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/maine",
+    "name": "us/maine",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/maine-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/maryland",
+    "name": "us/maryland",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/maryland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/massachusetts",
+    "name": "us/massachusetts",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/massachusetts-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/michigan",
+    "name": "us/michigan",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/michigan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/minnesota",
+    "name": "us/minnesota",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/minnesota-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/mississippi",
+    "name": "us/mississippi",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/mississippi-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/missouri",
+    "name": "us/missouri",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/missouri-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/montana",
+    "name": "us/montana",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/montana-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/nebraska",
+    "name": "us/nebraska",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/nebraska-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/nevada",
+    "name": "us/nevada",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/nevada-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/new-hampshire",
+    "name": "us/new-hampshire",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/new-hampshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/new-jersey",
+    "name": "us/new-jersey",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/new-jersey-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/new-mexico",
+    "name": "us/new-mexico",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/new-mexico-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/new-york",
+    "name": "us/new-york",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/north-carolina",
+    "name": "us/north-carolina",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/north-carolina-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/north-dakota",
+    "name": "us/north-dakota",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/north-dakota-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/ohio",
+    "name": "us/ohio",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/ohio-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/oklahoma",
+    "name": "us/oklahoma",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/oklahoma-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/oregon",
+    "name": "us/oregon",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/oregon-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/pennsylvania",
+    "name": "us/pennsylvania",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/pennsylvania-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/puerto-rico",
+    "name": "us/puerto-rico",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/puerto-rico-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/rhode-island",
+    "name": "us/rhode-island",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/rhode-island-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/south-carolina",
+    "name": "us/south-carolina",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/south-carolina-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/south-dakota",
+    "name": "us/south-dakota",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/south-dakota-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/tennessee",
+    "name": "us/tennessee",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/tennessee-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/texas",
+    "name": "us/texas",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/texas-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/us-virgin-islands",
+    "name": "us/us-virgin-islands",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/us-virgin-islands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/utah",
+    "name": "us/utah",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/utah-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/vermont",
+    "name": "us/vermont",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/virginia",
+    "name": "us/virginia",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/virginia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/washington",
+    "name": "us/washington",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/washington-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/west-virginia",
+    "name": "us/west-virginia",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/west-virginia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/wisconsin",
+    "name": "us/wisconsin",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/wisconsin-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "us/wyoming",
+    "name": "us/wyoming",
+    "parent_id": "north-america",
+    "url": "https://download.geofabrik.de/north-america/us/wyoming-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "ustecky",
+    "name": "Ústecký kraj",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/ustecky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "utrecht",
+    "name": "Utrecht",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/utrecht-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "uzbekistan",
+    "name": "Uzbekistan",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/uzbekistan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "valencia",
+    "name": "Valencia",
+    "parent_id": "spain",
+    "url": "https://download.geofabrik.de/europe/spain/valencia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "vanuatu",
+    "name": "Vanuatu",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/vanuatu-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "venezuela",
+    "name": "Venezuela",
+    "parent_id": "south-america",
+    "url": "https://download.geofabrik.de/south-america/venezuela-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "vestlandet",
+    "name": "Vestlandet<br />(Western Norway)",
+    "parent_id": "norway",
+    "url": "https://download.geofabrik.de/europe/norway/vestlandet-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "victoria",
+    "name": "Victoria",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/victoria-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "vietnam",
+    "name": "Vietnam",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/vietnam-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "volga-fed-district",
+    "name": "Volga Federal District",
+    "parent_id": "russia",
+    "url": "https://download.geofabrik.de/russia/volga-fed-district-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "vysocina",
+    "name": "Kraj Vysočina",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/vysocina-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "wales",
+    "name": "Wales",
+    "parent_id": "united-kingdom",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/wales-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "wallis-et-futuna",
+    "name": "Wallis et Futuna",
+    "parent_id": "australia-oceania",
+    "url": "https://download.geofabrik.de/australia-oceania/wallis-et-futuna-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "warminsko-mazurskie",
+    "name": "Województwo warmińsko-mazurskie<br />(Warmian-Masurian Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "warwickshire",
+    "name": "Warwickshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/warwickshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "west-midlands",
+    "name": "West Midlands",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/west-midlands-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "west-sussex",
+    "name": "West Sussex",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/west-sussex-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "west-yorkshire",
+    "name": "West Yorkshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/west-yorkshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "western-australia",
+    "name": "Western Australia",
+    "parent_id": "australia",
+    "url": "https://download.geofabrik.de/australia-oceania/australia/western-australia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "western-zone",
+    "name": "Western Zone",
+    "parent_id": "india",
+    "url": "https://download.geofabrik.de/asia/india/western-zone-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "wielkopolskie",
+    "name": "Województwo wielkopolskie<br />(Greater Poland Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "wiltshire",
+    "name": "Wiltshire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/wiltshire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "worcestershire",
+    "name": "Worcestershire",
+    "parent_id": "england",
+    "url": "https://download.geofabrik.de/europe/united-kingdom/england/worcestershire-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "xinjiang",
+    "name": "Xinjiang",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/xinjiang-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "yemen",
+    "name": "Yemen",
+    "parent_id": "asia",
+    "url": "https://download.geofabrik.de/asia/yemen-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "yukon",
+    "name": "Yukon",
+    "parent_id": "canada",
+    "url": "https://download.geofabrik.de/north-america/canada/yukon-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "yunnan",
+    "name": "Yunnan",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/yunnan-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "zachodniopomorskie",
+    "name": "Województwo zachodniopomorskie<br />(West Pomeranian Voivodeship)",
+    "parent_id": "poland",
+    "url": "https://download.geofabrik.de/europe/poland/zachodniopomorskie-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "zambia",
+    "name": "Zambia",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/zambia-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "zeeland",
+    "name": "Zeeland",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/zeeland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "zhejiang",
+    "name": "Zhejiang",
+    "parent_id": "china",
+    "url": "https://download.geofabrik.de/asia/china/zhejiang-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "zimbabwe",
+    "name": "Zimbabwe",
+    "parent_id": "africa",
+    "url": "https://download.geofabrik.de/africa/zimbabwe-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "zlinsky",
+    "name": "Zlínský kraj",
+    "parent_id": "czech-republic",
+    "url": "https://download.geofabrik.de/europe/czech-republic/zlinsky-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  },
+  {
+    "id": "zuid-holland",
+    "name": "Zuid-Holland",
+    "parent_id": "netherlands",
+    "url": "https://download.geofabrik.de/europe/netherlands/zuid-holland-latest.osm.pbf",
+    "size_bytes": 0,
+    "updated": null
+  }
+]

@@ -1,8 +1,8 @@
 """数据模型测试"""
 from pathlib import Path
 
-from src.osm_tool.models.task_state import TaskState
-from src.osm_tool.models.download_task import DownloadTask
+from osm_tool.models.task_state import TaskState
+from osm_tool.models.download_task import DownloadTask
 
 
 def test_task_state_values():

@@ -2,11 +2,11 @@
 from pathlib import Path
 from unittest.mock import patch, MagicMock
 
-from src.osm_tool.core.downloader.geofabrik import (
+from osm_tool.core.downloader.geofabrik import (
     GeofabrikDownloader, GeofabrikIndex, RegionInfo,
 )
-from src.osm_tool.models.download_task import DownloadTask
-from src.osm_tool.models.task_state import TaskState
+from osm_tool.models.download_task import DownloadTask
+from osm_tool.models.task_state import TaskState
 
 
 def test_region_info_creation():

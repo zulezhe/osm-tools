@@ -3,8 +3,8 @@ from pathlib import Path
 
 import requests
 
-from src.osm_tool.core.downloader.base import BaseDownloader
-from src.osm_tool.models.task_state import TaskState
+from osm_tool.core.downloader.base import BaseDownloader
+from osm_tool.models.task_state import TaskState
 
 MAX_BBOX_AREA = 0.25
 
@@ -12,7 +12,7 @@ MAX_BBOX_AREA = 0.25
 class BBoxDownloader(BaseDownloader):
     """按经纬度范围下载 OSM 数据"""
 
-    CHUNK_SIZE = 1024 * 64
+    CHUNK_SIZE = 1024 * 256
 
     def __init__(self, task, left: float, bottom: float, right: float, top: float, **kwargs):
         super().__init__(task, **kwargs)
@@ -37,12 +37,13 @@ class BBoxDownloader(BaseDownloader):
         url = f"{self._task.url}?bbox={bbox}"
 
         try:
-            resp = requests.get(url, stream=True, timeout=120)
+            resp = requests.get(url, stream=True, timeout=120, headers={"User-Agent": "OSM-Tool/0.1", "Accept-Encoding": "gzip, deflate"})
             resp.raise_for_status()
 
             total = int(resp.headers.get("content-length", 0))
             self._task.total_bytes = total
             downloaded = 0
+            start_time = __import__("time").time()
 
             with open(save_path, "wb") as f:
                 for chunk in resp.iter_content(chunk_size=self.CHUNK_SIZE):
@@ -50,7 +51,9 @@ class BBoxDownloader(BaseDownloader):
                         return
                     f.write(chunk)
                     downloaded += len(chunk)
-                    self._report_progress(downloaded, total, 0)
+                    elapsed = __import__("time").time() - start_time
+                    speed = downloaded / elapsed if elapsed > 0 else 0
+                    self._report_progress(downloaded, total, speed)
 
             self._task.downloaded_bytes = downloaded
             self._set_state(TaskState.COMPLETED)

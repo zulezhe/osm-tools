@@ -4,9 +4,17 @@ version = "0.1.0"
 description = "OSM 数据下载、处理、转换、发布桌面工具"
 requires-python = ">=3.10"
 dependencies = [
-    "PySide6>=6.6",
+    "fastapi>=0.115",
+    "uvicorn>=0.34",
+    "sse-starlette>=2.0",
     "requests>=2.31",
     "psutil>=5.9",
+    "shapely>=2.1.2",
+    "pyproj>=3.7.1",
+    "python-multipart>=0.0.28",
+    "pystray>=0.19",
+    "Pillow>=10.0",
+    "pywebview>=5.0",
 ]
 
 [project.optional-dependencies]
@@ -25,6 +33,18 @@ build-backend = "hatchling.build"
 [tool.hatch.build.targets.wheel]
 packages = ["src/osm_tool"]
 
+[tool.hatch.build.targets.wheel.sources]
+"src" = ""
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["src"]
+
+[[tool.uv.index]]
+url = "https://mirrors.aliyun.com/pypi/simple/"
+default = true
+
+[dependency-groups]
+dev = [
+    "pyinstaller>=6.20.0",
+]

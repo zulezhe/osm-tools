@@ -2,8 +2,8 @@
 from abc import ABC, abstractmethod
 from typing import Callable
 
-from src.osm_tool.models.download_task import DownloadTask
-from src.osm_tool.models.task_state import TaskState
+from osm_tool.models.download_task import DownloadTask
+from osm_tool.models.task_state import TaskState
 
 
 class BaseDownloader(ABC):

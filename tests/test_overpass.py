@@ -1,9 +1,9 @@
 """Overpass 下载器测试"""
 from unittest.mock import patch, MagicMock
 
-from src.osm_tool.core.downloader.overpass import OverpassDownloader
-from src.osm_tool.models.download_task import DownloadTask
-from src.osm_tool.models.task_state import TaskState
+from osm_tool.core.downloader.overpass import OverpassDownloader
+from osm_tool.models.download_task import DownloadTask
+from osm_tool.models.task_state import TaskState
 
 
 def test_overpass_download(tmp_dir):

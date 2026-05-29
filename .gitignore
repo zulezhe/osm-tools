@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.eggs/
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Frontend
+frontend/node_modules/
+src/osm_tool/web/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# App logs
+.osm_tool/

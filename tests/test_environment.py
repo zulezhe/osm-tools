@@ -1,5 +1,5 @@
 """环境检测测试"""
-from src.osm_tool.utils.environment import check_tool_available, ToolCheckResult
+from osm_tool.utils.environment import check_tool_available, ToolCheckResult
 
 
 def test_check_tool_available_python():

@@ -2,9 +2,9 @@
 from pathlib import Path
 from unittest.mock import patch, MagicMock
 
-from src.osm_tool.core.converter.base import Format, BaseConverter
-from src.osm_tool.core.converter.gdal_converter import GDALConverter
-from src.osm_tool.core.converter.manager import ConversionManager
+from osm_tool.core.converter.base import Format, BaseConverter
+from osm_tool.core.converter.gdal_converter import GDALConverter
+from osm_tool.core.converter.manager import ConversionManager
 
 
 def test_detect_format():
